@@ -44,8 +44,7 @@
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
         "NSFW_POV_AllInOne_LORA_SDXL.safetensors": "https://huggingface.co/hanspeterjuergen/149769875198/resolve/main/149769875198.safetensors",
-        "SDXL_myOnlyFans_v1.0-000010.safetensors": "https://huggingface.co/hanspeterjuergen/87314650151325/resolve/main/87314650151325_v1.0-000010.safetensors",
-        "myLora": "https://huggingface.co/hanspeterjuergen/873624981287/resolve/main/873624981287.safetensors"
+        "SDXL_myOnlyFans_v1.0-000010.safetensors": "https://huggingface.co/hanspeterjuergen/87314650151325/resolve/main/87314650151325_v1.0-000010.safetensors"
     },
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }
